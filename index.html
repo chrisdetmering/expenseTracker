@@ -1,0 +1,44 @@
+<!DOCTYPE html> 
+
+<html> 
+  <head>
+    <title>Expense Tracker</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>ADD AN EXPENSE</h1>
+
+    <label for="item-name">
+      Item Purchased
+      <input type="text"  id="item"> 
+    </label>
+      Cost
+    <label for="cost">
+        <input type="number" id="cost">
+    </label>
+    
+    <label for="date">
+      Date
+      <input type="datetime-local" id="date">
+    </label>
+
+    <label for="location">
+      Location
+      <input type="text" id="location">
+    </label>
+
+    <button id="add-expense">Add Expense</button>
+
+
+    <table id="expenses">
+      <tr>
+        <th>Item</th>
+        <th>Cost</th>
+        <th>Date</th>
+        <th>Location</th>
+      </tr>
+    </table>
+
+    <script src="expenseTracker.js"></script>
+  </body>
+</html>
