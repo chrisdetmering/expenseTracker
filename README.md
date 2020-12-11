@@ -6,7 +6,7 @@ _An Expense Tracker written entirely in pure Javascript, HTML and CSS_
 
 <br>
 
-Use it [here](https://andysterks.github.io/JS-Tetris)
+Use it [here](https://chrisdetmering.github.io/expenseTracker/)
 
 <br>
 
