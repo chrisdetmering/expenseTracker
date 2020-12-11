@@ -14,7 +14,7 @@ Use it [here](https://andysterks.github.io/JS-Tetris)
 
 ## Summary
 
-This was my fourth project for Software Development Mastary. I learned how to use DOM API's to select/remove HTML elements and how to save to localstorage. 
+This was my fourth project for Software Development Mastary. I learned how to use DOM API's to select/remove HTML elements and how to save to localStorage. 
 
 ## Author
 
